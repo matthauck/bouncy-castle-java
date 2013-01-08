@@ -1,6 +1,6 @@
 require 'rubygems'
 
-version = '1.5.0146.1'
+version = '1.5.0147'
 
 directory 'pkg'
 
